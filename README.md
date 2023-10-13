@@ -1,14 +1,8 @@
 # LCCS
 
-This repository contains code demonstrating the method in our IJCAI 2022 paper [Few-Shot Adaptation of Pre-Trained Networks for Domain Shift](https://www.ijcai.org/proceedings/2022/0232.pdf), and [arXiv version](https://arxiv.org/pdf/2205.15234.pdf) containing both main manuscript and appendix.
+This repository contains code forked from IJCAI 2022 paper [Few-Shot Adaptation of Pre-Trained Networks for Domain Shift](https://www.ijcai.org/proceedings/2022/0232.pdf), and [arXiv version](https://arxiv.org/pdf/2205.15234.pdf) containing both main manuscript and appendix.
 
 ## Setting up
-
-### Prerequisites
-
-This code makes use of [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch). Please follow the instructions at https://github.com/KaiyangZhou/Dassl.pytorch#installation to install `dassl`.
-
-We used NVIDIA container image for PyTorch, release 20.12, to run experiments.
 
 ### Dataset
 
